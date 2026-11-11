@@ -1,0 +1,1 @@
+This Project is developed to demonstrate a static website coded in html and css using git bash terminal and git commands.
